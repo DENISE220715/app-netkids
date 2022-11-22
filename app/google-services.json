@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103722444058",
+    "project_id": "testtkapp",
+    "storage_bucket": "testtkapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103722444058:android:d457b2d14fe3d92d9978a3",
+        "android_client_info": {
+          "package_name": "com.example.talkingkidsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103722444058-fncdjeja4n9u7v0nkcp7shi76alkl9ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEs9Tyyf78RdAyY9StAlcR6TfWhHbiP5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103722444058-fncdjeja4n9u7v0nkcp7shi76alkl9ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

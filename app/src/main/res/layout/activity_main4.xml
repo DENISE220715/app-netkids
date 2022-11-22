@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity4">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/imageButton17"
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:contentDescription="@string/IB"
+                android:onClick="MensajeVaca"
+                app:srcCompat="@drawable/vaca" />
+
+            <ImageButton
+                android:id="@+id/imageButton16"
+                android:layout_width="match_parent"
+                android:layout_height="135dp"
+                android:contentDescription="@string/IB"
+                android:onClick="MensajePero"
+                app:srcCompat="@drawable/perro" />
+
+            <ImageButton
+                android:id="@+id/imageButton15"
+                android:layout_width="match_parent"
+                android:layout_height="138dp"
+                android:contentDescription="@string/IB"
+                android:onClick="MensajePato"
+                app:srcCompat="@drawable/pato" />
+
+            <ImageButton
+                android:id="@+id/imageButton14"
+                android:layout_width="match_parent"
+                android:layout_height="136dp"
+                android:contentDescription="@string/IB"
+                android:onClick="MensajeGato"
+                app:srcCompat="@drawable/gato" />
+
+            <ImageButton
+                android:id="@+id/imageButton13"
+                android:layout_width="match_parent"
+                android:layout_height="131dp"
+                android:contentDescription="@string/IB"
+                android:onClick="MensajeCerdo"
+                app:srcCompat="@drawable/cerdo" />
+
+            <ImageButton
+                android:id="@+id/imageButton12"
+                android:layout_width="match_parent"
+                android:layout_height="142dp"
+                android:contentDescription="@string/IB"
+                android:onClick="MensajeCaballo"
+                app:srcCompat="@drawable/caballo" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

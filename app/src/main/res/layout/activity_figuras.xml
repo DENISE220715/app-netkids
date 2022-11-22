@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foreground="@drawable/ahorcado"
+    tools:context=".FIGURAS">
+
+
+  <Button
+      android:id="@+id/Jugar"
+      android:layout_width="105dp"
+      android:layout_height="wrap_content"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_centerHorizontal="true"
+      android:layout_marginEnd="154dp"
+      android:layout_marginBottom="217dp"
+      android:background="@android:drawable/screen_background_light_transparent"
+      android:onClick="play"
+      android:textColor="@color/white"
+      android:textColorHighlight="#FDFDFD"
+      android:textSize="27sp"
+      android:visibility="visible"
+      app:iconTint="#00987C7C"
+      app:iconTintMode="add"
+      app:strokeColor="#FFFFFF" />
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>PAJARO</item>
+        <item>CANTAR</item>
+        <item>MATERIA</item>
+        <item>CAMALEON</item>
+        <item>SMARPHONE</item>
+
+    </string-array>
+</resources>
