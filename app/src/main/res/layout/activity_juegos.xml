@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:foreground="@drawable/red_gradient_ui_onboarding_page_simple_mobile_ui_prototype"
+    android:foreground="@drawable/menu1"
     tools:context=".Juegos">
 
     <Button
