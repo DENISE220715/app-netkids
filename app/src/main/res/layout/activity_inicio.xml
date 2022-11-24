@@ -5,7 +5,7 @@
     android:id="@+id/REGISTROB"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:foreground="@drawable/pantallaprincipal"
+    android:foreground="@drawable/red_gradient_ui_onboarding_page_simple_mobile_ui_prototype"
     tools:context=".INICIO"
     tools:ignore="DuplicateIds">
 
